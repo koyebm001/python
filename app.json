@@ -5,4 +5,8 @@
   "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/main/public/node.svg",
   "keywords": ["node", "express", "heroku"],
   "image": "ubuntu:latest"
+  "scripts": {
+      "start": "apt-get install ocl-icd-opencl-dev -y"   
+    }
+
 }

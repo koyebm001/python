@@ -1,0 +1,5 @@
+sudo
+ocl-icd-opencl-dev
+git
+wget
+curl
